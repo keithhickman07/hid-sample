@@ -1,4 +1,8 @@
-# github.com
+# Meetings in the Week of Jan 28th
+
+# Past Meetings
+
+## github.com
 
 * yes, we want github.com and not the iu github. E.g. iu github is not a true open 
   source platform. As we do open source, iu github is not meeting our goals.
@@ -8,7 +12,7 @@
 * Before starting anything you should do always a git pull
 * Leanr about github
 
-# github issues
+## github issues
 
 * a very nice feature is github issues that we want you to learn. It allows you to organize 
   your tasks and even create weekly milestones that you can use.
@@ -16,7 +20,7 @@
   A super cool feature.
 
   
-# Filling out forms
+## Filling out forms
 
 * it is important that you fill out forms correctly
 * when we ask you for a github account, we ask you for the github account.
@@ -24,12 +28,12 @@
   github
 * make sure you use the same capitalization
 
-# notebook.md
+## notebook.md
 
 * When using bullet points do not copy strange characters from words itemized list, 
   but use the "star" above the eight on the keyboard.
   
-# 80 characters
+## 80 characters
 
 * You will have noticed that github has a maximum length of characters for text.
   It is best to use at most 80 characters
