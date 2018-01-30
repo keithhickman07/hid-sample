@@ -1,6 +1,6 @@
 # notebook.md
 
-* WHen using bullet points do not copy strange characters from words itemized list, 
+* When using bullet points do not copy strange characters from words itemized list, 
   but use the "star" above the eight on the keyboard.
   
 # 80 characters
