@@ -4,7 +4,7 @@
 # write a python3 program that just does this.
 ---
 owner:
-  - firstname: "Gregor"
-  - lastname: "von Laszewski"
-  - hid: "your hid number"
-  - community: "specify here e516, e222, i524, or e616"
+  - firstname: "Keith"
+  - lastname: "Hickman"
+  - hid: "12345"
+  - community: "e516"
